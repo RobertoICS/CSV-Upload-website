@@ -4,6 +4,7 @@
 
 
 #### Description:
+This is a final project submission for CS50 introduction to computer science course.
 This project is a web-based application built using Flask that allows users to upload CSV files, store them as SQL tables, and dynamically generate pivot table-like views of the data. The application offers basic functionality to filter columns and apply simple SQL aggregations (such as sum, count, and average) on the data.
 
 ### Motivation:
@@ -69,6 +70,8 @@ As this project was meant to allow me to acquire a basic understanding on data m
 
 ### Conclusion:
 This project offers a basic yet flexible framework for uploading, storing, and querying CSV data in a web environment. It allows users to interact with their data easily, viewing it in a table format and performing simple pivot operations using SQL functions.
-Ultimately this project highlighted 2 main things:
-1) Thanks to CS50 I've vastly increased my knowledge in coding. 
-2) I still have so much to learn. Definitely will stick to CS50 as my main learning platform (CS50 Python is next!), however I will also try to work on some personal project in the meantime
+This project could be improved by:
+   Improving the website aesthetic
+   Introduce a user management system (log in/out) and segregate the uploaded data only to those users who did upload it
+   introduce more option to manipulate the table
+   
